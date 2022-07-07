@@ -34,3 +34,6 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+p{
+    text-align: justify;
+}
